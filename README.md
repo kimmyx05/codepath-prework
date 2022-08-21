@@ -35,7 +35,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
-A challenge I face was installing XCode on my macbook. I tried installing from the app store but came across issues. After researching, I downloaded the app on through the browser. 
+* A challenge I face was installing XCode on my macbook. I tried installing from the app store but came across issues. After researching, I downloaded the app on through the browser. 
 
 ## License
 
